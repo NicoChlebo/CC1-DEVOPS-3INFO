@@ -14,3 +14,6 @@ Ce projet est destiné à valider les connaissances en DevOps des élèves de 3�
 
 ## Deploy to Netlify
 [![Deploy to Netlify](https://github.com/NicoChlebo/CC1-DEVOPS-3INFO/actions/workflows/deploy.yml/badge.svg)](https://github.com/NicoChlebo/CC1-DEVOPS-3INFO/actions/workflows/deploy.yml)
+
+## URL déploiement
+https://nicochlebodevops.netlify.app/
