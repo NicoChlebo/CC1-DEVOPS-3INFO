@@ -26,7 +26,7 @@ jobs:
   
       - name: Run tests
         run: |
-          pytest --junitxml=test-results.xml
+          npm test
 
       - name: Upload test results
         uses: actions/upload-artifact@v4
