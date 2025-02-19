@@ -1,4 +1,5 @@
-import { render, screen, fireEvent } from '@testing-library/dom'
+import { render, screen, fireEvent } from "@testing-library/react";
+import "@testing-library/jest-dom";
 import App from './App'
 
 test('le bouton doit incrémenter le compteur', () => {
