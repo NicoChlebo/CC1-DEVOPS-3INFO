@@ -15,7 +15,7 @@ jobs:
       - name: Deploy to Netlify
         uses: nwtgck/actions-netlify@v2
         with:
-          publish-dir: 'dist/' 
+          publish-dir: 'dist/'
           production-branch: 'master'
           deploy-message: 'Automated deployment'
           enable-pull-request-comment: true
