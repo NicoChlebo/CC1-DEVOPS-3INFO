@@ -10,3 +10,7 @@ Ce projet est destiné à valider les connaissances en DevOps des élèves de 3�
 4. Implémentez une github action pour déployer automatiquement le site sur un hebergement gratuit (Netlify)
 
 ## Test Results
+[![Run Tests](https://github.com/NicoChlebo/CC1-DEVOPS-3INFO/actions/workflows/run-tests.yml/badge.svg)](https://github.com/NicoChlebo/CC1-DEVOPS-3INFO/actions/workflows/run-tests.yml)
+
+## Deploy to Netlify
+[![Deploy to Netlify](https://github.com/NicoChlebo/CC1-DEVOPS-3INFO/actions/workflows/deploy.yml/badge.svg)](https://github.com/NicoChlebo/CC1-DEVOPS-3INFO/actions/workflows/deploy.yml)
